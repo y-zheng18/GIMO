@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is the official repo of our paper [GIMO: Gaze-Informed Human Motion Prediction in Context](https://arxiv.org/abs/2204.09443)
+This is the official repo of our paper [GIMO: Gaze-Informed Human Motion Prediction in Context](https://arxiv.org/abs/2204.09443).
 
 ## Demo
 
