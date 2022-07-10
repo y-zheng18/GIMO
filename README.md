@@ -9,13 +9,14 @@ This is the official repo of our paper [GIMO: Gaze-Informed Human Motion Predict
 
 A demo of our dataset:
 
-<img src="./assets/demo.gif" alt="demo" style="zoom:150%;" align="left"/>
+<img src="./assets/demo.gif" alt="demo" width="480" align="left;">
+
 
 Demo data can be downloaded from [**here**](https://drive.google.com/file/d/1cTF1zFcYbxAh8GZ5MsDK16C-iGubUgfn/view?usp=sharing)
 
 ## To do list
 
-* Releasing the full dataset and the code
+* Releasing the full dataset and the code of our paper
 
 ### Citation
 If you find this repo useful for your research, please consider citing:
