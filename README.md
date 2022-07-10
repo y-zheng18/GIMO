@@ -1,5 +1,5 @@
 # GIMO: Gaze-Informed Human Motion Prediction in Context (ECCV 2022)
-![demo](./assets/dataset_overview.pdf)
+![demo](./assets/dataset_overview.jpg)
 
 ## Introduction
 
@@ -11,7 +11,7 @@ A demo of our dataset:
 
 <video src="./assets/video.mp4"></video>
 
-Demo data can be downloaded from [here](https://drive.google.com/file/d/1cTF1zFcYbxAh8GZ5MsDK16C-iGubUgfn/view?usp=sharing)
+Demo data can be downloaded from [**here**](https://drive.google.com/file/d/1cTF1zFcYbxAh8GZ5MsDK16C-iGubUgfn/view?usp=sharing)
 
 ## To do list
 
