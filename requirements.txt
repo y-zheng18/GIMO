@@ -1,0 +1,14 @@
+einops
+human-body-prior
+matplotlib
+numpy
+opencv-python
+pandas
+pyrender
+pytorch3d
+scipy
+smplx
+torch
+torchvision
+tqdm
+trimesh

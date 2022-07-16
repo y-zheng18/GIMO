@@ -1,0 +1,14 @@
+ply
+format binary_little_endian 1.0
+comment Created by Open3D
+element vertex 4
+property double x
+property double y
+property double z
+property double nx
+property double ny
+property double nz
+end_header
+`Ùïq”oë¿Pu‘€…è¿@Zä€â¿R: y·í?¾RŒ3yÚ?ö{)–9W ?µĞR†[ë¿µae?£è¿(2Írãâ¿“ y·í?œ Œ3yÚ?†(–9W ?Î
+íN(Lë¿áÆi…Ãè¿ˆ¤ï±Lã¿÷y·í?Š~ Œ3yÚ?ö'–9W ?
+—B(=ë¿ZÔVÙíè¿ìŠˆa¸â¿“ y·í?œ Œ3yÚ?†(–9W ?
