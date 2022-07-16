@@ -35,7 +35,7 @@ pip install -e .
 
 Download and install [Vposer](https://github.com/nghorbani/human_body_prior), [SMPL-X](https://github.com/vchoutas/smplx)
 
-Download the pertained weight [here]() and put it in the checkpoints folder
+Download the [pertained weight]() and put it in the checkpoints folder
 
 For a quickstart, run:
 
@@ -43,7 +43,7 @@ For a quickstart, run:
 bash scripts/eval.sh
 ```
 
-You can download the full dataset and have a test
+You can download the full dataset and have a test.
 
 ## To do list
 
