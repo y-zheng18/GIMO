@@ -37,7 +37,7 @@ pip install -e .
 
 Download and install [Vposer](https://github.com/nghorbani/human_body_prior), [SMPL-X](https://github.com/vchoutas/smplx)
 
-Download the [pertained weight]() and put it in the checkpoints folder
+Download the [pertained weight](https://drive.google.com/file/d/1P48SaFSrBguUDdY0FwXeFqZtuU7KfEyX/view?usp=sharing) and put it in the checkpoints folder
 
 For a quickstart, run:
 
