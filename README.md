@@ -47,7 +47,7 @@ You can download the full dataset and have a test
 
 ## To do list
 
-* To Release the full dataset.
+* To release the full dataset and code of the paper.
 
 ### Citation
 If you find this repo useful for your research, please consider citing:
