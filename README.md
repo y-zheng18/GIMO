@@ -47,9 +47,25 @@ bash scripts/eval.sh
 
 You can download the full dataset and have a test.
 
-## To do list
+## Dataset
+### Agreement
+1. The GIMO dataset (the "Dataset") is available for **non-commercial** research purposes only. Any other use, in particular any use for commercial purposes, is prohibited. This includes, without limitation, incorporation in a commercial product, use in a commercial service, as training data for a commercial product, for commercial ergonomic analysis (e.g. product design, architectural design, etc.), or production of other artifacts for commercial purposes including, for example, web services, movies, television programs, mobile applications, or video games. The dataset may not be used for pornographic purposes or to generate pornographic material whether commercial or not. The Dataset may not be reproduced, modified and/or made available in any form to any third party without our prior written permission.
 
-* To release the full dataset and code of the paper.
+2. You agree **not to** reproduce, modified, duplicate, copy, sell, trade, resell or exploit any portion of the images and any portion of derived data in any form to any third party without our prior written permission
+
+3. You agree **not to** further copy, publish or distribute any portion of the Dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+
+4. Stanford University and Tsinghua University reserve the right to terminate your access to the Dataset at any time.
+
+### Download Instructions 
+The dataset is encrypted to prevent unauthorized access.
+
+Please fill the [request form](./assets/GIMO_Dataset_Agreement.pdf) and send it to Yang Zheng (yzheng18@stanford.edu) to request the download link. 
+
+By requesting for the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
+
+### Dataset Structure
+You can refer to [README](./demo_data/README.md) for details.
 
 ### Citation
 If you find this repo useful for your research, please consider citing:
