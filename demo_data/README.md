@@ -11,10 +11,10 @@ scene_xxx/
         transform_norm.txt      # to normailze the scene into the canonical space
     sequence_name/
         xxx_head_hand_eye.csv	# collected head, hand, eye gaze pose 
-        xxx_pv.txt				# camera poses of egocentric images
+        xxx_pv.txt	        # camera poses of egocentric images
         eye_pc/
-            xxx.ply	            # gaze point cloud
-        PV/xxx.png				# egocentric images
+            xxx.ply	        # gaze point cloud
+        PV/xxx.png		# egocentric images
         smplx_local/
             xxx.obj			# smplx mesh
             xxx.pkl			# latent embedding of smplx, using VPoser to decode
