@@ -31,7 +31,7 @@ python -m utils.align_smpl --dataroot /path/to/dataset --data_idx 37
 ```
 where `--data_idx` is the index of the sequence in the annotation file (*dataset.csv*). For example, `--data_idx 37` means the *bedroom0210/2022-02-10-031338* sequence. You might want to look up the annotation file (*dataset.csv*) to find the corresponding index of the sequence you want to render.
 
-The renderer is implemented in [render.py](../utils/render_blender.py), which depends on [Blender](https://www.blender.org/). You need to firstly mannual import the scene into blender, add camera, and then save the .blend file. You should get something like this [render.blend](.bedroom0210/render.blend). 
+The renderer is implemented in [render.py](../utils/render_blender.py), which depends on [Blender](https://www.blender.org/). You need to firstly mannual import the scene into blender, add camera, and then save the .blend file. You should get something like this [render.blend](./bedroom0210/render.blend). 
 Then you can run the following code to render the scene:
 ```
 /path/to/blender --python ./utils/render_blender.py -- --folder './GIMO_dataset/bedroom0210/2022-02-10-031338/smplx_aligned_fine' \
