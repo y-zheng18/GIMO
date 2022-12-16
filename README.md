@@ -64,7 +64,7 @@ Please fill the [request form](./assets/GIMO_Dataset_Agreement.pdf) and send it 
 
 By requesting for the link, you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
-### Dataset Structure
+### Dataset Structure & Visualization
 You can refer to [README](./demo_data/README.md) for details.
 
 ### Citation
