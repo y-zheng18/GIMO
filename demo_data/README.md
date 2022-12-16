@@ -34,7 +34,7 @@ where `--data_idx` is the index of the sequence in the annotation file (*dataset
 The renderer is implemented in [render.py](../utils/render_blender.py), which depends on [Blender](https://www.blender.org/). You need to firstly mannual import the scene into blender, add camera, and then save the .blend file. You should get something like this [render.blend](.bedroom0210/render.blend). 
 Then you can run the following code to render the scene:
 ```
-/path/to/blender --python .utils/render_blender.py -- --folder './GIMO_dataset/bedroom0210/2022-02-10-031338/smplx_aligned_fine' \
+/path/to/blender --python ./utils/render_blender.py -- --folder './GIMO_dataset/bedroom0210/2022-02-10-031338/smplx_aligned_fine' \
  --scene './GIMO_dataset/bedroom0210/render.blend' --output_folder './GIMO_dataset/bedroom0210/rendering'
 ```
 You might need to change the path to blender and the path to the scene file. The rendered images will be saved in the `--output_folder`.
